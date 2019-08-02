@@ -696,3 +696,14 @@ img.avatar_img {
   margin:0 auto;
   margin-top:-50px;
 }
+
+.linkedin_icon_container{
+display: flex ;
+justify-content: center;
+}
+
+.linkedin_icon_container li{
+  text-align: center;
+}
+
+
