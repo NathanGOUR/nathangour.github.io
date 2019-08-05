@@ -675,6 +675,7 @@ ul.social-buttons {
 }
 
 ul.social-buttons li a {
+  margin-top: 20px;
   font-size: 40px;
   line-height: 80px;
   display: block;
