@@ -19,7 +19,7 @@ a {
 }
 
 a:hover {
-  color: #fec503;
+  color: #3644fe;
 }
 
 .text-primary {
@@ -99,8 +99,8 @@ img::-moz-selection {
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
-  background-color: #fec810 !important;
-  border-color: #fec810 !important;
+  background-color: #3644fe !important;
+  border-color: #3644fe !important;
   color: white;
 }
 
@@ -130,7 +130,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: #fec503;
+  color: #3644fe;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
