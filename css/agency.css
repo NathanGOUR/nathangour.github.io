@@ -226,14 +226,14 @@ header.masthead .intro-text .intro-heading {
     line-height: 40px;
     margin-bottom: 150px;
     margin-top: 140px;
-    font-family: 'Libre Caslon Text', serif;
+    font-family: 'Nunito', sans-serif;
   }
   header.masthead .intro-text .intro-heading {
     font-size: 100px;
     font-weight: 700;
     line-height: 75px;
     margin-bottom: 50px;
-    font-family: 'Libre Caslon Text', serif;
+    font-family: 'Nunito', sans-serif;
   }
 }
 
