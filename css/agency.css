@@ -15,15 +15,15 @@ p {
 }
 
 a {
-  color: #3644fe;
+  color: #5f1326;
 }
 
 a:hover {
-  color: #3644fe;
+  color: #5f1326;
 }
 
 .text-primary {
-  color: #3644fe !important;
+  color: #5f1326 !important;
 }
 
 h1,
@@ -62,12 +62,12 @@ h6 {
 }
 
 ::-moz-selection {
-  background: #3644fe;
+  background: #5f1326;
   text-shadow: none;
 }
 
 ::selection {
-  background: #3644fe;
+  background: #5f1326;
   text-shadow: none;
 }
 
@@ -94,12 +94,12 @@ img::-moz-selection {
 }
 
 .btn-primary {
-  background-color: #3644fe;
-  border-color: #3644fe;
+  background-color: #5f1326;
+  border-color: #5f1326;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
-  background-color: #3644fe !important;
+  background-color: #5f1326 !important;
   border-color: #ffffff !important;
   color: white;
 }
@@ -120,7 +120,7 @@ img::-moz-selection {
   text-transform: uppercase;
   color: white;
   border: 0;
-  background-color: #3644fe;
+  background-color: #5f1326;
   font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
 
@@ -130,7 +130,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: #3644fe;
+  color: #5f1326;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -143,7 +143,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #3644fe;
+  color: #5f1326;
 }
 
 @media (min-width: 992px) {
@@ -460,7 +460,7 @@ header.masthead .intro-text .intro-heading {
   color: white;
   border: 7px solid #e9ecef;
   border-radius: 100%;
-  background-color: #3644fe;
+  background-color: #5f1326;
 }
 
 .timeline > li .timeline-image h4 {
@@ -631,7 +631,7 @@ section#contact .form-group textarea.form-control {
 }
 
 section#contact .form-control:focus {
-  border-color: #3644fe;
+  border-color: #5f1326;
   -webkit-box-shadow: none;
   box-shadow: none;
 }
@@ -700,7 +700,7 @@ ul.social-buttons li a {
 }
 
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
-  background-color: #3644fe;
+  background-color: #5f1326;
 }
 img.avatar_img {
   display: block;
