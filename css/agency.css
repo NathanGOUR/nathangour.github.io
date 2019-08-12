@@ -724,4 +724,9 @@ justify-content: center;
   z-index: 1;
   position: relative;
 }
-
+img.icilaba{
+  margin-top: 30px;
+}
+img.upt{
+  margin-top: 30px;
+}
