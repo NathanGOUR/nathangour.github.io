@@ -77,7 +77,6 @@ img::-moz-selection {
 
 img::selection {
   background: transparent;
-  margin-top: 30px;
 }
 
 img::-moz-selection {
